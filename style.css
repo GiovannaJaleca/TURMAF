@@ -12,15 +12,18 @@ body{
 }
 
 .titulo-principal{
+    color: white;
     padding-left: 20px;
 }
 
 .titulo-centralizado {
+    color: white;
      text-align: center
 }
 
 p{
    text-align: center;
+   color: white;
 }
 
 #missao {
